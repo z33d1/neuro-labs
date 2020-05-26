@@ -11,3 +11,11 @@ cd clusterization
 jupyter notebook
 # and select main.ipynb
 ```
+
+Classification
+----
+```bash
+cd classification
+jupyter notebook
+# and select main.ipynb
+```
